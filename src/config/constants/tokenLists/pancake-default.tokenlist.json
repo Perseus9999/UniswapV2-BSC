@@ -1,0 +1,46 @@
+{
+  "name": "Dexfinity Default List",
+  "timestamp": "2022-01-26T11:45:09Z",
+  "version": {
+    "major": 4,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://pancakeswap.finance/logo.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "chainId": 355110,
+      "address": "0xA200De431b63F91b21b4D672Db766D044Af7905D",
+      "name": "Dexfinity Token",
+      "symbol": "DEF",
+      "decimals": 18,
+      "logoURI": "/images/355110/tokens/0xA200De431b63F91b21b4D672Db766D044Af7905D.png"
+    },
+    {
+      "chainId": 355110,
+      "address": "0x51cCdE9Ca75d95BB55eCe1775fCBFF91324B18A6",
+      "name": "ICP",
+      "symbol": "ICP",
+      "decimals": 8,
+      "logoURI": "/images/355110/tokens/0x51cCdE9Ca75d95BB55eCe1775fCBFF91324B18A6.png"
+    },
+    {
+      "chainId": 355110,
+      "address": "0x56bF74Ef5d4aD161D2D8D5d576E70108F152Cd35",
+      "name": "ckBTC",
+      "symbol": "ckBTC",
+      "decimals": 8,
+      "logoURI": "/images/355110/tokens/0x56bF74Ef5d4aD161D2D8D5d576E70108F152Cd35.png"
+    },
+    {
+      "chainId": 355110,
+      "address": "0x3662AFEF38c94a6184CDFCE8DCC60E7C305b8299",
+      "name": "ckUSDC",
+      "symbol": "ckUSDC",
+      "decimals": 6,
+      "logoURI": "/images/355110/tokens/0x3662AFEF38c94a6184CDFCE8DCC60E7C305b8299.png"
+    }
+  ]
+}
